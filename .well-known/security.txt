@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:security@vincentwolsink.nl
+Expires: 2025-03-14T19:09:00.000Z
+Encryption: openpgp4fpr:3982da3bd87fdc282f637bc439dc17733620d831
+Preferred-Languages: nl, en
+Canonical: https://vincentwolsink.nl/.well-known/security.txt
+Canonical: https://www.vincentwolsink.nl/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEOYLaO9h/3CgvY3vEOdwXczYg2DEFAmXzPfwACgkQOdwXczYg
+2DHcJxAAilaC/2hJGhik9CmWmafs522L2EBB25Yr4GqTzZCN0Hgi5Jz1TN2rMHJu
+QxKWFwE7+XNYgZ2ZWmAcrYSKikouhBU3o796eDSgh2I/V1pv7xQBSno+oeLPnL/B
+MBbveRZR5+aeErUgal/+bKcaHH146RpgJliseQVOo5cxevNvWW1pxdACxxVe+LUx
+pA3HPA2IDgBb34wShYdyKOjCpUICzrLHSZ0CjraTyKk5/cKgvtl6NaJMKOzhhvXN
+zGg/p6dVsk1DonGGWtOaDCSaIvddXqKitw3lMLAhTdFlDqlkb5Vxb+ZrVCDpK6IZ
+tiUEsrrePvL1d/oidtIhxeHIKsBAN/PyRPICO1bKFFExcLo6GJyJEEFRq9IEZtST
+8FnRdxFQ7zYw1zTxSfakOYGoAAo6ykDaVthhdPAXkVLPfiANTHoob1D40msuHD8E
+4MBfN74/Jikp8ard1DDC6jXNbwHS2HPyz1POe7jslAUEYQ1HeN0+NcHcRXEWtOhg
+G+GE3zyKR0AT5sDADLLFWDR8UtKt1zWeEJZXRL/OrVhQsde3nz1qlAHHPc2P5O5F
+5MD7+0EHbfQrh8juTpqxrQgdZpCRdNykg6UHjuaK8GWraXyl4NWtFEnLDIn+wY23
+KEx89z3i0sAIbVBHMpJKPsAl5hePFYdVDhd7elP5hKR709K0JQo=
+=HSmD
+-----END PGP SIGNATURE-----
